@@ -3,7 +3,7 @@
 ---
 ## My contact :
 -	Location: Saint-Petersburg, Russia	
-- [GitHub](https://github.com/uselessdeveloper-front)
+- [GitHub](https://github.com/uselessdeveloperFr)
 - email: webdevelopermiwa@gmail.com
 - [Telegram](https://t.me/useless177)
 
