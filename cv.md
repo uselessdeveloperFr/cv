@@ -2,7 +2,7 @@
 
 ---
 ## My contact :
--	Location: Krasondar, Russia	
+-	Location: Saint-Petersburg, Russia	
 - [GitHub](https://github.com/uselessdeveloper-front)
 - email: webdevelopermiwa@gmail.com
 - [Telegram](https://t.me/useless177)
